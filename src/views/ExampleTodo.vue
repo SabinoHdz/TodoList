@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="min-h-screen flex items-center justify-center bg-gray-100 p-4">
     <div class="w-full max-w-lg bg-white rounded-lg shadow-lg p-6">
       <h1 class="text-2xl font-bold text-center mb-4">Lista de Tareas</h1>
@@ -63,4 +63,4 @@ const deleteTask = (index) => {
 body {
   font-family: 'Arial', sans-serif;
 }
-</style>
+</style> -->

@@ -10,6 +10,16 @@ const router = createRouter({
       component: HomeView,
     },
 
+    {
+      path: '/components',
+      name: 'components',
+      component: () => import('@/views/ComponentsExamples.vue'),
+    },
+    {
+      path: '/about',
+      name: 'about ',
+      component: () => import('@/views/AboutProyect.vue'),
+    },
   ],
 })
 
